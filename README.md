@@ -9,8 +9,6 @@ Businesses need to understand not only how much customers spend, but also how re
 
 This project demonstrates how transaction data can be transformed into actionable customer insights through data cleaning, exploratory analysis, machine learning, customer segmentation, and marketing recommendations.
 
-> **Dataset Note:** This project uses synthetic transaction data. It does not contain Trillium Mall / VR Ambarsar's actual customer transactions or establish the causes of its vacancy.
-
 ## 🎯 Project Objectives
 
 - 🧹 Clean and preprocess transaction data.
